@@ -1,0 +1,8 @@
+.sweetalert-xs { width: 200px!important; }
+.sweetalert-xs .swal-title:first-child {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.form-search{
+    margin-left:15px;
+}

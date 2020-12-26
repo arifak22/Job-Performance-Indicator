@@ -1,0 +1,55 @@
+
+body {
+    background-color: #fff;
+    /* margin: 10px; */
+    /* font: 12px/20px normal Arial; */
+    font-family: Arial, Helvetica, sans-serif;
+    /* color: #4F5155; */
+    font-size: 12px;
+    color: #0f120f;
+}
+
+/* TABLES 1*/
+.table1 {
+border-collapse: collapse;
+}
+
+.table1, .table1 th, .table1 td {
+    border: 1px solid black;
+}
+.table1 th{
+    padding: 10px;
+}
+.table1 td{
+    padding: 5px;
+}
+
+/* TABLES 2*/
+.table2 {
+    border-collapse: collapse;
+}
+
+.table2, .table2 th, .table2 td {
+    border: 1px solid black;
+}
+.table2 th{
+    padding: 5px;
+}
+.table2 td{
+    padding: 2px;
+}
+
+.go-center{
+    margin-right:auto;
+    margin-left:auto;
+}
+
+td {
+    vertical-align: top;
+}
+.footer{
+    left: 0;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+}
